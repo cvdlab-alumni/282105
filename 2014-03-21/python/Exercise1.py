@@ -50,3 +50,5 @@ COLOR([0.7,0,0.9])(stair1),
 COLOR([0.7,0,0.9])(stair2),
 COLOR([0.7,0,0.9])(stair3),
 COLOR([0.7,0,0.9])(stair4)])
+
+VIEW(building)
